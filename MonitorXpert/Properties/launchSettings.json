@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MonitorXpert (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MonitorXpert (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
